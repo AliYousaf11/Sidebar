@@ -1,0 +1,32 @@
+.Content {
+  height: 80vh;
+  width: 75vw;
+  /* margin: 4rem 10rem; */
+}
+.Carousel {
+  height: 100%;
+  border-radius: 10px;
+}
+.Carousel .Btn_pre,
+.Btn_next {
+  padding: 0 5rem;
+  background: transparent;
+  outline: none;
+  border: none;
+  margin-top: 15rem;
+  font-size: 3.5rem;
+  color: white;
+}
+.Btn_pre {
+  margin-right: 40rem;
+  background-color: none;
+}
+.Dots {
+  text-align: center;
+  justify-content: space-between;
+  padding: 0 45rem;
+  margin: 5rem;
+  display: flex;
+  color: white;
+  font-size: 1rem;
+}

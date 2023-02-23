@@ -1,0 +1,32 @@
+.SearchContainer h1 {
+  transform: translate(30%, 50%);
+}
+.SearchName {
+  display: flex;
+}
+.SearchInput {
+  transform: translate(110%, 50%);
+  width: 350px;
+  padding: 1rem;
+  border: 1px solid #0095ff5b;
+  border-radius: 5px;
+  outline: none;
+
+}
+.SearchMain {
+  transform: translate(75%, 15%);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  width: 350px;
+  background-color: #0095ff5b;
+  border-radius: 5px;
+}
+.SearchMain p {
+  padding: 1rem 0;
+}
+.userName {
+  background-color: #0095ff5b;
+  width: 120px;
+  padding: 0.3rem 1rem;
+  border: 1px solid white;
+}

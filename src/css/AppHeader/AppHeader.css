@@ -1,0 +1,13 @@
+.header {
+  border-bottom: 1px solid lightgray;
+  padding: 1rem;
+  font-size: 2.5rem;
+}
+.loginbtn {
+  background-color: #0095ffbb;
+  border-radius: 20px;
+  color: white;
+  padding: 1rem;
+  outline: none;
+  border: none;
+}
